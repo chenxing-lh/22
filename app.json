@@ -1,0 +1,19 @@
+{
+  "appKey": "E5APJk8lMT5xDFvrflsu3dRI5lEhax4G",
+  "appSecret": "OungEdNNhUt2MBqwozTnpRzzh6PL06Vi",
+  "projectId": "03959af9e986a8ada17aaf4ca83ceff4",
+  "id": 375,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "添加提示失败实际成功",
+  "git": {
+    "url": "https://github.com/chenxing-lh/22.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "cbtqRTpLnvIk45VrezodFWLzKZDA6/a7iH/I3XGWL5tALqqMT8cXln6/+ZwlCF6u0l9PxdQn+8x5bM3cnYP4gQ=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
